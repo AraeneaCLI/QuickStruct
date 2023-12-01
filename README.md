@@ -1,6 +1,8 @@
 # QuickStruct
 ## Code by AraeneaCLI
 
+![Screenshot of the plaform](./res/preview.png)
+
 [![CMake on multiple platforms](https://github.com/AraeneaCLI/QuickStruct/actions/workflows/cmake-multi-platform.yml/badge.svg)](https://github.com/AraeneaCLI/QuickStruct/actions/workflows/cmake-multi-platform.yml)
 
 QuicStruct is an Open Source Data Structure Command Line Interface Application.
