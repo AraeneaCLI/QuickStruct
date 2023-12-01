@@ -13,7 +13,7 @@ int main()
 
 	cout << "Quick Struct - Data Structure App  by AraeneaCLI" << endl;
 	cout << endl;
-	cout << "https://github.com/AraeneaCLI" << endl;
+	cout << "Repo: " << "https://github.com/AraeneaCLI" << endl;
 	cout << endl;
 	cout << "------------------------------------------------" << endl;
 	cout << endl;
