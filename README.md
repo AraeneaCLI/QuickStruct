@@ -34,6 +34,26 @@ cd  QuickStruct
 
 ```
 
+## Walkthrough
+
+### File Structure
+
+Header Files
+
+```bash
+
+./src/
+
+```
+
+Mentioning Header Files
+
+```bash
+
+./QuickStruct.h
+
+```
+
 ## Socials
 ![Visits Badge](https://badges.pufler.dev/visits/AraeneaCLI/AraeneaCLI)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-YashMankar-informational?style=flat&logo=linkedin&logoColor=#0A66C2&color=0D76A8)](https://www.linkedin.com/in/yash-mankar-23b453269)
