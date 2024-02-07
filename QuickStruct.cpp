@@ -70,10 +70,10 @@ int main()
 
 			switch (inval)
 			{
-			case 0:
-				break;
-
 			case 1:
+				creategraph();
+
+			case 2:
 				break;
 			}
 		}

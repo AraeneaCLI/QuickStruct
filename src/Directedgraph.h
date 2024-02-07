@@ -1,12 +1,8 @@
 using namespace std;
 
-int readgraph()
+int readgraph(int mat[][], int vertices)
 {
-	int mat[50][50], int vertices;
 	char var;
-
-	cout << "Enter the No of Vertices:- " << endl;
-	cin >> vertices;
 	
 	for(int i=1;i<=vertices;i++)
 	{
@@ -84,8 +80,6 @@ int creategraph()
 		cout<<"OUT Degree "<<outdeg<<endl;
 		
 	}
-	
-	printgraph(mat,vertices);
 	
 	return 0;
 }
