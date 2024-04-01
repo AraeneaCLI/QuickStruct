@@ -59,7 +59,7 @@ int main()
 			cout << endl;
 
 			cout << "1. Create" << endl;
-			cout << "2. Display" << endl;
+			cout << "0. Return" << endl;
 
 			cout << endl;
 			cout << "------------------------------------------------" << endl;
@@ -70,11 +70,11 @@ int main()
 
 			switch (inval)
 			{
-			case 0:
-				break;
-
 			case 1:
-				break;
+				creategraph();
+
+			case 0:
+				continue;
 			}
 		}
 	}
